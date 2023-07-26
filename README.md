@@ -1,4 +1,4 @@
-# Business-Star-Rating-
+# Business-Star-Rating-using NLP
 Using NLP to classify the rating of a business in to 1 or 5 stars using the text review given by the reviewer.
 In this NLP project i will be attempting to classify Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews. We will use the Yelp Review Data Set from Kaggle.
 
